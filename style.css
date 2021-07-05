@@ -6,7 +6,7 @@
 
 body{
     font-family: 'Poppins', sans-serif;
-    display: fixed;
+  
 }
 
 .navbar{
@@ -328,10 +328,8 @@ ul{
 
 /*------------media query for menu---------*/
 
-@media only screen and (max-width: 500px){
-   body{
-       display: fixed;
-       }
+@media only screen and (max-width: 700px){
+   
     
     .navbar ul{
         position: absolute;

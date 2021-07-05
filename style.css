@@ -47,10 +47,10 @@ body{
 
 
 .container{
-    width:100%;
+    width:1300px;
     margin: 0;
-    padding-left: 10px;
-
+    padding-left: 25px;
+    padding-right:25px;
 
 }
 
@@ -62,7 +62,7 @@ body{
     
 }
 .col-2{
-    flex-basis: 100%;
+    flex-basis: 50%;
     min-width: 500px;
 }
 .col-2 img{
@@ -355,22 +355,9 @@ ul{
         
     }
     .navbar ul li a{
-        color: white;
-        
-        
+        color: white;     
     }
     
-
-
-   .container{
-
-      width:100%;
-
-       margin: 0;
-
-      padding-left: 0px;
-
-}
     .menu-icon{
         display: block;
         cursor: pointer;
